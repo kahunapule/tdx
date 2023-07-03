@@ -1,7 +1,6 @@
 \c 42
-\s1
-\v 1 Ho a i Talè, Fañereñere’ o Ana’ i Korao
-\q1 Manahake ty fisehasehàn-temboay
+\s1 Ho a i Talè, Fañereñere’ o Ana’ i Korao
+\b 1 Manahake ty fisehasehàn-temboay
 \q1 an-torahañe mitsiritsioke
 \q1 ty fisañasañan-troko ama’o
 \q1 ry Andrianañahare.
@@ -32,9 +31,9 @@
 \q1
 \v 6 Ry Andrianañahareko,
 \q1 Mitsilofìñe añ’ovako ao ty troko,
-\q1 tiahiko rehe boak’ an-tane Iordane\f + \fr 42:6  \ft Iordane: sakam-pizakàñe\f* ao,
-\q1 naho an-dengo’ i Kermone\f + \fr 42:6  \ft Kermone: natokañe ho rotsaheñe\f* eñe,
-\q1 hirik’am-bohi-Mitsarey\f + \fr 42:6  \ft Mitsare: kedeke\f* añe.
+\q1 tiahiko rehe boak’ an-tane Iordane\f + \fr 42:6 \ft Iordane: sakam-pizakàñe\f* ao,
+\q1 naho an-dengo’ i Kermone\f + \fr 42:6 \ft Kermone: natokañe ho rotsaheñe\f* eñe,
+\q1 hirik’am-bohi-Mitsarey\f + \fr 42:6 \ft Mitsare: kedeke\f* añe.
 \q1
 \v 7 Tokave’ i lalekey ty laleke
 \q1 ami’ty fitroña’ o kinera’eo.
