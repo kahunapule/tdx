@@ -1,7 +1,7 @@
 \c 119
-\s1
-\v 1 א Alefe\f + \fr 119:1 \ft Mifandime ami’ty abody Hebreo, nalahatse kivalo sindre mifototse am-peo raike ty valo. Alef: ‘A’ ami’ty abode Hebreo: Añombelahy\f*
-\q1 Haha o vantañe amy lia’eio,
+\s1 א Alefe\f + \fr 119:1 \ft Mifandime ami’ty abody Hebreo, nalahatse kivalo sindre mifototse am-peo raike ty valo. Alef: ‘A’ ami’ty abode Hebreo: Añombelahy\f*
+\q1
+\v 1 Haha o vantañe amy lia’eio,
 \q1 o mañavelo amy Hà’\nd Iehovà\nd*io.
 \q1
 \v 2 Haha o miambeñe o taro’eoo,
@@ -14,7 +14,7 @@
 \q1 hañorihan-tika an-joton-troke.
 \q1
 \v 5 Hizoañe abey o liakoo,
-\q1 hañambenako o fañè’oo !
+\q1 hañambenako o fañè’oo~!
 \q1
 \v 6 Le tsy ho salaren-draho
 \q1 naho hotsohotsoeko iaby o fepè’oo,
@@ -128,9 +128,9 @@
 \q1 o mampangebahebak’ ahikoo,
 \q1 amy te soa o fizakà’oo.
 \q1
-\v 40 Hete ! salalaeko o fepè’oo!
+\v 40 Hete~! salalaeko o fepè’oo!
 \q1 ihetsefo amo fahiti’oo.
-\s1 ו Vav\f + \fr 119:41 \ft Vàv: ‘V’ : Heb: kitro, fahañe\f*
+\s1 ו Vav\f + \fr 119:41 \ft Vàv: ‘V’~: Heb: kitro, fahañe\f*
 \q1
 \v 41 Ampombao amako ty fiferenaiña’o ry \nd Iehovà\nd*,
 \q1 ty fandrombaha’o ty amo saontsi’oo;
@@ -154,7 +154,7 @@
 \q1
 \v 48 Zonjoñeko amo fandilia’oo o tañakoo,
 \q1 fa kokoako, vaho haereñereko o fañè’o.
-\s1 ז Zène\f + \fr 119:49 \ft Zaine: ‘Z’ : Heb: fialiañe, lasary\f*
+\s1 ז Zène\f + \fr 119:49 \ft Zaine: ‘Z’~: Heb: fialiañe, lasary\f*
 \q1
 \v 49 Tiahio i nitsaraeñe amy mpitoro’oiy,
 \q1 amy t’ie nampitamae’o.
@@ -182,7 +182,7 @@
 \q1
 \v 56 Zao ty ahy
 \q1 te ambenako o fepè’oo.
-\s1 ח Khète\f + \fr 119:57 \ft Khete: ‘Kh’ : Heb: kijoly\f*
+\s1 ח Khète\f + \fr 119:57 \ft Khete: ‘Kh’~: Heb: kijoly\f*
 \q1
 \v 57 \nd Iehovà\nd* ro anjarako;
 \q1 fa nifanta t’ie hañorike o tsara’oo.
@@ -207,7 +207,7 @@
 \q1
 \v 64 Lifotse ty fiferenaiña’o ty tane toy,
 \q1 ry \nd Iehovà\nd*; anaro ahy o fañè’oo.
-\s1 ט Tète\f + \fr 119:65 \ft Tete: T tsotra, Heb : mereñe \f*
+\s1 ט Tète\f + \fr 119:65 \ft Tete: T tsotra, Heb~: mereñe \f*
 \q1
 \v 65 Fa nisoae’o ty mpitoro’o, ry \nd Iehovà\nd*,
 \q1 ty amo enta’oo.
@@ -427,7 +427,7 @@
 \v 128 vaho iantofako te vantañe
 \q1 te amy ze he’e o fepè’oo;
 \q1 fonga hejeko ze lalam-bàlañe.
-\s1 פ Pe\f + \fr 119:129 \ft Pe: ‘P’ ndra ‘F’ te Hebreo : Falie misokake\f*
+\s1 פ Pe\f + \fr 119:129 \ft Pe: ‘P’ ndra ‘F’ te Hebreo~: Falie misokake\f*
 \q1
 \v 129 Fanjaka o taro’oo;
 \q1 le ifahara’ ty troko.
@@ -532,7 +532,7 @@
 \q1 ty amo fiferenaiña’oo.
 \q1
 \v 160 Ty jabajaba amo Tsara’oo, le t’ie vañoñe, hene mijadoñe nainai’e o fizakà’o vantañeo.
-\s1 ש Sìne\f + \fr 119:161 \ft Sin : ‘S’ ,Hebreo, vilo’ masy, famotse\f*
+\s1 ש Sìne\f + \fr 119:161 \ft Sin~: ‘S’, Hebreo, vilo’ masy, famotse\f*
 \q1
 \v 161 Mampisoañ’ahy tsy aman-tali’e
 \q1 o roandriañeo,
